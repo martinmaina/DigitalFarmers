@@ -36,3 +36,5 @@ resources/
 *.jpeg
 *.jpg
 *.sql
+
+!DiFa/*
